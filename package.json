@@ -1,0 +1,28 @@
+{
+  "name": "nodeDataTest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StephenDeVaux/nodeDataTest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StephenDeVaux/nodeDataTest/issues"
+  },
+  "homepage": "https://github.com/StephenDeVaux/nodeDataTest#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  },
+  "dependencies": {
+    "csv-parse": "^4.12.0"
+  }
+}
