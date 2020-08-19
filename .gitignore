@@ -1,2 +1,5 @@
 node_modules
-csv
+results/*
+!results/.gitkeep
+csv/*
+!csv/.gitkeep
